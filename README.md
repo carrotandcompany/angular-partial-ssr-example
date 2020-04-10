@@ -1,4 +1,6 @@
-# angular-ssr
+# angular-9-ssr
+
+**Note:** this is an updated version of the following repository: https://github.com/carrotandcompany/angular-8-ssr.
 
 To start the project install [Docker](https://www.docker.com/) and execute:
 
