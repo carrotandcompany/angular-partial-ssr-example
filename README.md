@@ -1,6 +1,6 @@
-# angular-9-ssr
+# Partial Server Side Rendering (Angular v9)
 
-**Note:** this is an updated version of the following repository: https://github.com/carrotandcompany/angular-8-ssr.
+This is the example repo for this blogpost https://www.cnc.io/en/blog/angular-server-side-rendering.html
 
 To start the project install [Docker](https://www.docker.com/) and execute:
 
